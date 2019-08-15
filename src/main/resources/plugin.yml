@@ -1,0 +1,6 @@
+name: global
+description: Global | A BungeeCord Plugin.
+version: 1.0
+api-version: 1.14
+main: me.dominosinco.Global
+authors: [Global, KitNetwork, Dominosinco10]
